@@ -1,4 +1,4 @@
-#Autor: ------
+#Autor: John Burgos
 #Fecha: 2022/01/07
 #Descripción: Programa creado para obtener datos por teclado.
 print("Introduzca su nombre: ")
